@@ -1,7 +1,5 @@
 ###Windows Syncthing Installer
 
-This is a Syncthing NSI install script.
+Installs syncthing to run silently on startup and automically update in the %appdata% dir.
 
-If you want something you can just download and double-click, check the `release` tab.
-
-Everything here is written in Notepad; the superior text-editor.
+Check the releases tab for downloads.
